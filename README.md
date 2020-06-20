@@ -75,3 +75,9 @@ The no-shuffle mechanism is to make playing quicker and easier for kids who don'
 I considered having the players take the same number of turns and having more in the supply than the cutoff. That would be more fair at the cost of considerable rules complexity.
 
 The audience doesn't seem to particularly mind that the cards you purchase on the last pass through your deck don't help you. Adding cards that give you gems when you buy them would add complexity, so I'm not inclined to do that.
+
+### Icon Credits
+
+* Recycle by monkik from the Noun Project
+* gem by Lluisa Iborra from the Noun Project
+* coin by Grafix Point from the Noun Project
