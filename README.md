@@ -76,6 +76,8 @@ I considered having the players take the same number of turns and having more in
 
 The audience doesn't seem to particularly mind that the cards you purchase on the last pass through your deck don't help you. Adding cards that give you gems when you buy them would add complexity, so I'm not inclined to do that.
 
+I am considering limiting buys to 1/turn to reduce complexity and because there are not many good reasons to want to buy more than 1 card per turn. ("Buy a card" is a simpler rule than "buy one or more cards whose total cost is no greater than the coins you have")
+
 ### Icon Credits
 
 * Recycle by monkik from the Noun Project
