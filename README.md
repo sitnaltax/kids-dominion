@@ -14,6 +14,8 @@ Players familiar with ordinary Dominion can quickly [review the differences](dif
 
 ## Components
 
+The PDF is available [here](geminion.pdf).
+
 * 80-160 "gems" (small tokens), based on player count
 * One 8-card "starter deck" (the first page of the PDF) per player; I print these on a different color to make setup easy
 * "Supply cards" (18 Double coins, 9 each of Triple coins, Gem Mine, Gem Trove; 4 each of Wish, Helper, Cleaner; 9 Rainbow)
