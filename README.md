@@ -14,8 +14,11 @@ Geminion plays 2-4 players. Like ordinary Dominion, you can play it with more (i
 
 * 80-160 "gems" (small tokens), based on player count
 * One 8-card "starter deck" (the first page of the PDF) per player; I print these on a different color to make setup easy
-* "Supply cards" (18 Double coins, 9 each of Triple coins, Gem Mine, Gem Hoard; 4 each of Wish, Helper, Book, Cleaner)
-* "Extended cards"
+* "Supply cards" (18 Double coins, 9 each of Triple coins, Gem Mine, Gem Trove; 4 each of Wish, Helper, Cleaner; 9 Rainbow)
+
+The PDF contains 2 "starter decks". Print out more copies of the first two pages to play with more players.
+
+I make the decks by cutting out the cards with a rotary paper cutter (scissors work fine) and putting them into an opaque-backed card sleeve in front of an unwanted CCG card.
 
 ## Goal
 
@@ -24,6 +27,8 @@ The goal is to be the player with the most gems when the gem supply is exhausted
 ## Setup
 
 Give each player a starting deck consisting of 7 Penny cards and 1 Gem Stash card. Put the Gem Stash on the bottom.
+
+Lay out the other cards in the supply. There should be 2 Rainbow cards per player; set the rest aside. (If you accidentally put out too many, that's fine.)
 
 Put gems into the supply: 40 times the number of players.
 
@@ -41,6 +46,7 @@ On your turn, take the following steps:
 3. Buy more cards.
     * You can buy cards with a total cost (the bottom left number) of the value of the "Coin" cards you play. You can buy any number of cards that you can afford, and you don't have to buy cards if you don't want to.
     * When you buy a card, put it in your play area, with the other cards you played this turn. It doesn't do anything on the turn you buy it.
+    * You can't buy cards if their supply is exhausted.
 
 4. Clean up.
     * If you played any cards with a Recycle symbol this turn that you haven't already returned, put them back now. (This doesn't affect Recycle cards that you just bought them, of course.)
@@ -66,7 +72,7 @@ You, or another player, can "purchase" recycled Penny or Gem Stash cards for fre
 
 ### Playtesting/Design Notes
 
-It is not intended that the supply piles will run out during ordinary play. If this is happening to you, use additional cards of the kind needed, and please let me know so I can adjust the supply.
+Other than Rainbow, it is not intended that the supply piles will run out during ordinary play. If this is happening to you, use additional cards of the kind needed, and please let me know so I can adjust the supply.
 
 Recycling is used as an alternative to Dominion trashing to make cleanup easier.
 
@@ -76,7 +82,7 @@ I considered having the players take the same number of turns and having more in
 
 The audience doesn't seem to particularly mind that the cards you purchase on the last pass through your deck don't help you. Adding cards that give you gems when you buy them would add complexity, so I'm not inclined to do that.
 
-I am considering limiting buys to 1/turn to reduce complexity and because there are not many good reasons to want to buy more than 1 card per turn. ("Buy a card" is a simpler rule than "buy one or more cards whose total cost is no greater than the coins you have")
+I considered limiting buys to 1/turn for simplicity, but I want to avoid the feel-bad moment of a $12 hand that wastes $5 of potential. If you have strong feelings about this, let me know.
 
 ### Icon Credits
 
