@@ -10,6 +10,8 @@ Geminion is a Dominion variant aimed at kids from around 5-8 years old. The focu
 
 Geminion plays 2-4 players. Like ordinary Dominion, you can play it with more (if you create more cards) but I don't recommend it.
 
+Players familiar with ordinary Dominion can quickly [review the differences](differences.md).
+
 ## Components
 
 * 80-160 "gems" (small tokens), based on player count
