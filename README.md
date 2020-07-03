@@ -66,13 +66,13 @@ The term "recycle" means to put a card back in its supply pile.
 
 **Rainbow:** When you play this, you get one gem, and draw and play one more card. It's also worth one coin, as if you had played a Penny.
 
-**Wish:** When you play this, draw three more cards and gain 3 gems. Then recycle it back to its Supply pile.
+**Wish:** When you play this, draw and play three more cards and gain 3 gems. Then recycle it back to its Supply pile.
 
 **Helper:** This card is worth 4 coins when you play it. Keep it in your play area to remember that you have the coins to spend, but remember to recycle it when you clean up at the end of your turn.
 
 **Cleaner:** When you play this, you can recycle any number of cards from your hand, and it recycles itself. You don't get any coins or gems from cards you recycle. Then the Cleaner itself is also recycled.
 
-**Sparkle:** When you play this, draw another card and gain one gem. Then recycle it back to its Supply pile.
+**Sparkle:** When you play this, draw and play another card and gain one gem. Then recycle it back to its Supply pile.
 
 You, or another player, can "purchase" recycled Penny or Gem Stash cards on a future turn (but you usually won't want to).
 
