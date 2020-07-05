@@ -1,5 +1,9 @@
 # Changelog
 
+## 7/4/2020 v0.31
+
+* Fixed the cost of Helper being incorrectly 3 (it should still cost 4 and grant 4)
+
 ## 7/3/2020 v0.3
 
 * Cleaner now costs 3 (down from 4)
